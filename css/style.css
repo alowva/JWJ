@@ -498,9 +498,9 @@ a.w3_agile_dribble{
 	background:#ea4c89;
 	border:2px solid #ea4c89;
 }
-a.w3_agile_vimeo{
-	background:#f26522;
-	border:2px solid #f26522;
+a.agile_instagram{
+	background:#c13584;
+	border:2px solid #c13584;
 }
 .w3_agile_banner_info{
     margin: 10em 0 0;
@@ -1866,7 +1866,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 }
 @media (max-width: 1024px){
 	.navbar-brand {
-		height: 70px;
+		height: 120px;
 		font-size: .7em;
 		line-height: 22px;
 	}
@@ -2106,7 +2106,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
     width: 94%;
 }
 .navbar-brand {
-    height: 50px;
+    height: 100px;
 }
 .stats-grid i {
     padding: 21px 0 0 0;
